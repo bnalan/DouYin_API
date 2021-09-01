@@ -31,4 +31,4 @@
     {"Data":"视频/图片直链","Message":"","Result":true}
 ```
 ### 5、在IOS中捷径的用法
-![IOS捷径](image\jiejing.jpg)
+![IOS捷径](https://github.com/bnalan/DouYin_API/tree/master/image/jiejing.jpg)
